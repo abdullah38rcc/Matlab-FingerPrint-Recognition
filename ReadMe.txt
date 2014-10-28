@@ -1,3 +1,6 @@
+This Programme Devlopped By Matlab V 2012
+To Try This Programme Djust Start :  FP.p
+
 In order to obtain the complete source code please visit:
 http://matlab-recognition-code.com/fingerprint-recognition-system-full-source-code/
 % Please Donate to obtain the complete source code please visit
